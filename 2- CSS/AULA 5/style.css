@@ -1,0 +1,19 @@
+body {
+background: #d8cccc
+}
+
+p{
+
+    color: #2b2a2a
+}
+
+.foto-principal {
+    border: 2px solid #FFFF;
+    border-radius: 47%;
+    
+    /*margin-top: 50px;
+    margin-left: 30px;
+    margin-bottom: 60px; */
+    
+    margin: 30px 30px 30px 30px;
+}
